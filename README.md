@@ -3,7 +3,7 @@
 ## I'm Sérgio Ferreira!
 
  
-:computer: Passion QA!
+:computer: QA!
 
 :house_with_garden: I’m from Brazil.
 
