@@ -3,13 +3,13 @@
 ## I'm Sérgio Ferreira!
 
  
-:computer: QA!
+:computer: Passion QA!
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
+:books: I’m currently learning about agile testing.
 
-:outbox_tray: 2022 Goals: create a new project and find a new job.
+:outbox_tray: 2022 Goals: learn more and more and find a new job.
 
  
 <div>
